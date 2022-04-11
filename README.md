@@ -10,11 +10,7 @@ Estructura back-end para un sistema básico de cursos online con REST-API-django
 git clone https://github.com/carjizo/REST-API-django.git
 ```
 
-#### Ingresa a la carpeta
-
-```
-cd system-ecommerce
-```
+#### Ingresa a la carpeta: REST-API-django
 
 #### Crea y activa el entorno virtual(linux)
 
